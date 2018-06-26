@@ -1,0 +1,35 @@
+.h1
+{
+    font-size: 249%;
+    margin-top: 13%;
+    color: blue;
+
+}
+
+.search{
+    size: 70px;
+
+}
+
+.bt1{
+height: 30px;
+    width: 30px;
+    margin-left: 750px;
+    margin-top: 1%;
+    position: absolute;
+    background: green;
+
+}
+
+.bt2{
+    height: 30px;
+    width: 30px;
+    margin-left: 800px;
+    margin-top: 1%;
+    position: absolute;
+    background: red;
+
+}
+.bt2:hover{
+    background-color: blue;
+}
